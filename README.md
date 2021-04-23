@@ -1,6 +1,8 @@
 # axel
 Tests checklist Pedro
 ===============
+ - [] Checkbox not checked
+ - [X] Checkbox checked
 - [ ] Mercury
 - [x] Venus
 - [x] Earth (Orbit/Moon)

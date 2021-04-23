@@ -1,7 +1,7 @@
 # axel
 Tests checklist Pedro
 ===============
- - [] Checkbox not checked
+ - [ ] Checkbox not checked
  - [X] Checkbox checked
 - [ ] Mercury
 - [x] Venus

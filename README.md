@@ -4,7 +4,7 @@ Tests checklist Pedro
 
 ## Tester le déploiement
 
-- [ ] Je dois pouvoir mettre a jour le projet avec git puis lancer "update.bat" sans avoir d'erreur.\
+-[ ] Je dois pouvoir mettre a jour le projet avec git puis lancer "update.bat" sans avoir d'erreur.\
 - [ ] Les containers sont lancés (docker-compose ps).
 
 ## Test Hi5 / Creation de session

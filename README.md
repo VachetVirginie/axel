@@ -1,7 +1,15 @@
 # axel
 Tests checklist Pedro
 ===============
-
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley`
 ## Tester le déploiement
 
 -[ ] Je dois pouvoir mettre a jour le projet avec git puis lancer "update.bat" sans avoir d'erreur.\
